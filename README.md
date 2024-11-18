@@ -1,4 +1,4 @@
-# Curso de extensión universitaria en Computación Cuántica, Universidad de Málaga, edición 2024
+# [Curso de extensión universitaria en Computación Cuántica, Universidad de Málaga, edición 2024](https://quant.uma.es/curso-de-extension-universitaria-en-computacion-cuantica/)
 ## Jupyter notebooks para el Módulo 2: Arquitecturas Cuánticas
 ### Departamento de Arquitectura de Computadores, UMA
 
